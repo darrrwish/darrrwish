@@ -14,12 +14,9 @@
 
 <div align="center">
 
-![GitHub Streak-Dark](https://streak-stats.demolab.com?user=darrrwish&hide_border=true&background=0d1117&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&currStreakNum=fb8c00&sideNums=f0f6fc&sideLabels=fb8c00#gh-dark-mode-only)  
+![GitHub Streak-Dark](https://streak-stats.demolab.com?user=darrrwish&hide_border=true&background=0d1117&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&currStreakNum=fb8c00&sideNums=f0f6fc&sideLabels=fb8c00#gh-dark-mode-only) 
 
 </div>
-
-
----
 
 ## 🧑‍💻 About Me
 
