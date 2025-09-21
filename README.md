@@ -2,11 +2,19 @@
 
 <div align="center">
 
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=darrrwish&show_icons=true&count_private=true&hide_border=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=darrrwish&layout=compact&hide_border=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=darrrwish&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=fb8c00&text_color=f0f6fc&icon_color=fb8c00#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=darrrwish&layout=compact&hide_border=true&bg_color=0d1117&title_color=fb8c00&text_color=f0f6fc&icon_color=fb8c00#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=darrrwish&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=darrrwish&layout=compact&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=darrrwish&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=010409&text_color=212830&icon_color=fb8c00#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=darrrwish&layout=compact&hide_border=true&bg_color=ffffff&title_color=010409&text_color=212830&icon_color=fb8c00#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak-Dark](https://streak-stats.demolab.com?user=darrrwish&hide_border=true&background=0d1117&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&sideNums=f0f6fc&sideLabels=fb8c00#gh-dark-mode-only)  
 
 </div>
 
@@ -25,35 +33,24 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-212830?logo=react&logoColor=fb8c00)
+![Next.js](https://img.shields.io/badge/Next.js-212830?logo=next.js&logoColor=fb8c00)
+![TypeScript](https://img.shields.io/badge/TypeScript-212830?logo=typescript&logoColor=fb8c00)
+![JavaScript](https://img.shields.io/badge/JavaScript-212830?logo=javascript&logoColor=fb8c00)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-212830?logo=tailwind-css&logoColor=fb8c00)
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-212830?logo=node.js&logoColor=fb8c00)
+![Express](https://img.shields.io/badge/Express-212830?logo=express&logoColor=fb8c00)
+![MongoDB](https://img.shields.io/badge/MongoDB-212830?logo=mongodb&logoColor=fb8c00)
+![Firebase](https://img.shields.io/badge/Firebase-212830?logo=firebase&logoColor=fb8c00)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak-Dark](https://streak-stats.demolab.com?user=darrrwish&theme=radical&hide_border=true#gh-dark-mode-only)  
-![GitHub Streak-Light](https://streak-stats.demolab.com?user=darrrwish&theme=default&hide_border=true#gh-light-mode-only)
-
-</div>
+![Git](https://img.shields.io/badge/Git-212830?logo=git&logoColor=fb8c00)
+![VS Code](https://img.shields.io/badge/VS_Code-212830?logo=visual-studio-code&logoColor=fb8c00)
+![Docker](https://img.shields.io/badge/Docker-212830?logo=docker&logoColor=fb8c00)
+![Figma](https://img.shields.io/badge/Figma-212830?logo=figma&logoColor=fb8c00)
+![Office](https://img.shields.io/badge/Microsoft_Office-212830?logo=microsoft-office&logoColor=fb8c00)
 
 ---
 
@@ -69,24 +66,10 @@ Another cool project with Next.js and MongoDB.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-212830?style=for-the-badge&logo=linkedin&logoColor=fb8c00)](https://www.linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-212830?style=for-the-badge&logo=twitter&logoColor=fb8c00)](https://twitter.com/yourhandle)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-212830?style=for-the-badge&logo=vercel&logoColor=fb8c00)](https://your-portfolio.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-212830?style=for-the-badge&logo=gmail&logoColor=fb8c00)](mailto:your.email@example.com)  
 
 ---
 
-<details>
-<summary>📊 Weekly Development Breakdown</summary>
-<br>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   38 hrs  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   50.5%
-TypeScript   20 hrs  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   26.6%
-CSS           8 hrs  ▓▓▓▓░░░░░░░░░░░░░░░░░░   10.6%
-HTML          5 hrs  ▓▓░░░░░░░░░░░░░░░░░░░░   6.6%
-Other         4 hrs  ▓░░░░░░░░░░░░░░░░░░░░░   5.7%
