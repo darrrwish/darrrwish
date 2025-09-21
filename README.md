@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Darrrwish  
+# Hello there 👋 I'm Darwish  
 
 <div align="center">
 
