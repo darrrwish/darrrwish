@@ -14,9 +14,10 @@
 
 <div align="center">
 
-![GitHub Streak-Dark](https://streak-stats.demolab.com?user=darrrwish&hide_border=true&background=0d1117&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&sideNums=f0f6fc&sideLabels=fb8c00#gh-dark-mode-only)  
+![GitHub Streak-Dark](https://streak-stats.demolab.com?user=darrrwish&hide_border=true&background=0d1117&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&currStreakNum=fb8c00&sideNums=f0f6fc&sideLabels=fb8c00#gh-dark-mode-only)  
 
 </div>
+
 
 ---
 
@@ -33,24 +34,24 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-212830?logo=react&logoColor=fb8c00)
-![Next.js](https://img.shields.io/badge/Next.js-212830?logo=next.js&logoColor=fb8c00)
-![TypeScript](https://img.shields.io/badge/TypeScript-212830?logo=typescript&logoColor=fb8c00)
-![JavaScript](https://img.shields.io/badge/JavaScript-212830?logo=javascript&logoColor=fb8c00)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-212830?logo=tailwind-css&logoColor=fb8c00)
+![React](https://img.shields.io/badge/React-ffffff?logo=react&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?logo=next.js&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?logo=typescript&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-ffffff?logo=tailwind-css&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-212830?logo=node.js&logoColor=fb8c00)
-![Express](https://img.shields.io/badge/Express-212830?logo=express&logoColor=fb8c00)
-![MongoDB](https://img.shields.io/badge/MongoDB-212830?logo=mongodb&logoColor=fb8c00)
-![Firebase](https://img.shields.io/badge/Firebase-212830?logo=firebase&logoColor=fb8c00)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?logo=node.js&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![Express](https://img.shields.io/badge/Express-ffffff?logo=express&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?logo=mongodb&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-ffffff?logo=firebase&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-212830?logo=git&logoColor=fb8c00)
-![VS Code](https://img.shields.io/badge/VS_Code-212830?logo=visual-studio-code&logoColor=fb8c00)
-![Docker](https://img.shields.io/badge/Docker-212830?logo=docker&logoColor=fb8c00)
-![Figma](https://img.shields.io/badge/Figma-212830?logo=figma&logoColor=fb8c00)
-![Office](https://img.shields.io/badge/Microsoft_Office-212830?logo=microsoft-office&logoColor=fb8c00)
+![Git](https://img.shields.io/badge/Git-ffffff?logo=git&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![VS Code](https://img.shields.io/badge/VS_Code-ffffff?logo=visual-studio-code&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![Docker](https://img.shields.io/badge/Docker-ffffff?logo=docker&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![Figma](https://img.shields.io/badge/Figma-ffffff?logo=figma&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
+![Office](https://img.shields.io/badge/Microsoft_Office-ffffff?logo=microsoft-office&logoColor=fb8c00&labelColor=ffffff&color=fb8c00&style=flat)
 
 ---
 
@@ -66,10 +67,24 @@ Another cool project with Next.js and MongoDB.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-212830?style=for-the-badge&logo=linkedin&logoColor=fb8c00)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-212830?style=for-the-badge&logo=twitter&logoColor=fb8c00)](https://twitter.com/yourhandle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-212830?style=for-the-badge&logo=vercel&logoColor=fb8c00)](https://your-portfolio.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-212830?style=for-the-badge&logo=gmail&logoColor=fb8c00)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=fb8c00&labelColor=ffffff&color=fb8c00)](https://www.linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=fb8c00&labelColor=ffffff&color=fb8c00)](https://twitter.com/yourhandle)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=fb8c00&labelColor=ffffff&color=fb8c00)](https://your-portfolio.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=fb8c00&labelColor=ffffff&color=fb8c00)](mailto:your.email@example.com)  
 
 ---
 
+<details>
+<summary>📊 Weekly Development Breakdown</summary>
+<br>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript   38 hrs  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   50.5%
+TypeScript   20 hrs  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   26.6%
+CSS           8 hrs  ▓▓▓▓░░░░░░░░░░░░░░░░░░   10.6%
+HTML          5 hrs  ▓▓░░░░░░░░░░░░░░░░░░░░   6.6%
+Other         4 hrs  ▓░░░░░░░░░░░░░░░░░░░░░   5.7%
