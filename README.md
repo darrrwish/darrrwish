@@ -28,7 +28,7 @@
 - 🌱 I believe in **continuous learning** — whatever interests me, I dive into it!  
 - 📊 Skilled with **Microsoft Office (Word, Excel, PowerPoint)** and always trying to automate daily tasks.  
 - ⚡ Fun fact: I can switch between saving lives 💉 and saving code 💾 in the same day.  
-
+<!--
 ---
 
 ## 🛠️ Tech Stack
@@ -73,18 +73,4 @@ Another cool project with Next.js and MongoDB.
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=fb8c00&labelColor=ffffff&color=fb8c00)](mailto:your.email@example.com)  
 
 ---
-
-<details>
-<summary>📊 Weekly Development Breakdown</summary>
-<br>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   38 hrs  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   50.5%
-TypeScript   20 hrs  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   26.6%
-CSS           8 hrs  ▓▓▓▓░░░░░░░░░░░░░░░░░░   10.6%
-HTML          5 hrs  ▓▓░░░░░░░░░░░░░░░░░░░░   6.6%
-Other         4 hrs  ▓░░░░░░░░░░░░░░░░░░░░░   5.7%
+-->
